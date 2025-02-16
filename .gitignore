@@ -4,14 +4,6 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-# 🔹 TypeScript build output
-dist/
-out/
-*.js
-*.js.map
-*.d.ts
-*.tsbuildinfo
-
 # 🔹 Environment variables
 .env
 .env.local
