@@ -150,6 +150,7 @@ gov-redeem/
 │   ├── index.test.ts
 │── .gitignore
 │── jest.config.js
+│── tsconfig.json
 │── package-lock.json
 │── package.json
 │── README.md
