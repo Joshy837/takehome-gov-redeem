@@ -1,0 +1,36 @@
+# 🔹 Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 🔹 TypeScript build output
+dist/
+out/
+*.js
+*.js.map
+*.d.ts
+*.tsbuildinfo
+
+# 🔹 Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# 🔹 Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# 🔹 IDE & Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# 🔹 OS & Miscellaneous
+.DS_Store
+Thumbs.db
